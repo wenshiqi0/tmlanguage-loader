@@ -1,0 +1,14 @@
+{
+  "name": "tmlanguage-loader",
+  "version": "0.0.2",
+  "description": "tmlanguage loader for vscode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "munong",
+  "license": "MIT",
+  "dependencies": {
+    "fast-plist": "^0.1.2"
+  }
+}
